@@ -1,27 +1,40 @@
-# Engineering Design Review
+# Engineering Design Review (EDR)
 
-## Executive Summary
+## Document Control
 
-## Problem Statement
+| Field | Value |
+|-------|-------|
+| Status | Draft |
+| Version | 0.1 |
+| Document Owner | Amruthavalli Chivukula |
+| Created | 03-08-2026 |
 
-## Engineering Capability
+---
 
-## Objectives
+## 1. Executive Summary
 
-## Success Criteria
+## 2. Problem Statement
 
-## Scope
+## 3. Engineering Capability
+
+## 4. Objectives
+
+## 5. Success Criteria
+
+## 6. Scope
 
 ### In Scope
 
 ### Out of Scope
 
-## Technology Stack
+## 7. Technology Stack
 
-## Proposed Architecture
+## 8. Proposed Architecture
 
-## Risks
+## 9. Repository Structure
 
-## Future Improvements
+## 10. Risks
 
-## Integration with CloudOps Lab
+## 11. Future Improvements
+
+## 12. Integration with CloudOps Lab
