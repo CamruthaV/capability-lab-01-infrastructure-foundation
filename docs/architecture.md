@@ -21,9 +21,9 @@ Terraform state is maintained separately from the infrastructure resources it ma
 
 ### Architecture Diagram
 
-![Infrastructure Foundations Architecture](diagrams/infrastructure-foundations-architecture.png)
+![Infrastructure Foundations Architecture](../diagrams/infrastructure-foundations-architecture.png)
 
-[SVG version](diagrams/infrastructure-foundations-architecture.svg)
+[SVG version](../diagrams/infrastructure-foundations-architecture.svg)
 
 ---
 
@@ -182,9 +182,9 @@ Production requires:
 
 ### Deployment Workflow Diagram
 
-![Infrastructure Change and Deployment Workflow](diagrams/infrastructure-change-deployment-workflow.png)
+![Infrastructure Change and Deployment Workflow](../diagrams/infrastructure-change-deployment-workflow.png)
 
-[SVG version](diagrams/infrastructure-change-deployment-workflow.svg)
+[SVG version](../diagrams/infrastructure-change-deployment-workflow.svg)
 
 ---
 
